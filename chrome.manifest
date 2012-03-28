@@ -1,0 +1,6 @@
+content	timetrack	chrome/chromeFiles/content/
+overlay	chrome://browser/content/browser.xul chrome://timetrack/content/panel.xul
+
+locale	timetrack	de-DE	chrome/chromeFiles/locale/de-DE/
+locale	timetrack	en-US	chrome/chromeFiles/locale/en-US/
+locale	timetrack	ru-RU	chrome/chromeFiles/locale/ru-RU/
